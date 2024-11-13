@@ -7,4 +7,6 @@ Sphinx
 coverage
 awscli
 flake8
+ipywidgets
 python-dotenv>=0.5.1
+ydata-profiling
